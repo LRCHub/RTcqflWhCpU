@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "カンフーミラクル～愛～",
+  "base_artist": "FES☆TIVE",
+  "createdAt": "2026-02-10T05:23:04.870996Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カンフーミラクル～愛～",
+      "artist": "FES☆TIVE",
+      "has_synced": false,
+      "path": "select/pl_01_カンフーミラクル~愛~_FES☆TIVE.txt"
+    }
+  ]
+}
